@@ -1,0 +1,74 @@
+.body_{
+    padding:20px 20px;
+    width: 30rem;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin:100px 450px 100px 450px ;
+    background-color: white;
+    line-height: 1;
+    
+    
+}
+
+body{
+    background-color: rgb(237, 222, 205);
+}
+
+h1{
+    font-family: 'Youngserif', serif;
+}
+
+img{
+    margin-left:auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 8px;
+    object-fit: scale-down ;
+    max-width: 100%;
+    
+    
+    
+}
+.myDiv1{
+    background-color: #e5e2e5;
+    border-radius: 8px;
+    padding: 10px 0px 10px 15px;
+    margin-top:15px ;
+    
+    
+
+}
+
+
+h3{
+color: rgb(160, 90, 160)
+font-family: 'Youngserif', serif;
+}
+h2{
+    color: rgb(117, 75, 9);
+    font-family: 'Youngserif', serif;
+}
+
+
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr td{
+    border-bottom:1.5px solid rgb(76, 49, 7) ;
+    padding: 12px;
+}
+@font-face {
+    font-family: 'YoungSerif' ;
+    src: url(assets/fonts/young-serif/OFL.txt),
+    url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+    
+}
+.coloured{
+    color:red;
+}
+.attribution{
+    font-size: 15px;
+}
